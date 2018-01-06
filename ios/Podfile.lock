@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - url_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/saymagic/Library/flutter/bin/cache/artifacts/engine/ios`)
+  - url_launcher (from `/Users/saymagic/.pub-cache/hosted/pub.dartlang.org/url_launcher-0.4.2+5/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: /Users/saymagic/Library/flutter/bin/cache/artifacts/engine/ios
+  url_launcher:
+    :path: /Users/saymagic/.pub-cache/hosted/pub.dartlang.org/url_launcher-0.4.2+5/ios
+
+SPEC CHECKSUMS:
+  Flutter: d674e78c937094a75ac71dd77e921e840bea3dbf
+  url_launcher: 0067ddb8f10d36786672aa0722a21717dba3a298
+
+PODFILE CHECKSUM: 351e02e34b831289961ec3558a535cbd2c4965d2
+
+COCOAPODS: 1.3.1
